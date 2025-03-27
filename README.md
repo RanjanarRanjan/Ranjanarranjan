@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 As a recent Master of Computer Applications (MCA) graduate,<br>I am a motivated and technically skilled individual<br>with a passion for software development and technology innovation. <br>My academic background has provided me with a solid foundation in <br>programming, database management, and software engineering principles. <br>I am eager to bring my knowledge and skills to real-world projects,<br>where I can contribute effectively to a dynamic and forward-thinking<br>organization.
 
 ## 🎓 Education:
-- **PG Diploma in Blockchain** – Digital University Kerala  
-- **Master of Computer Applications (MCA)**  
-- **Bachelor of Computer Applications (BCA)**  
+- **PG Diploma in Blockchain** – Digital University Kerala(present)
+- **Master of Computer Applications (MCA)**(2022-2024)
+- **Bachelor of Computer Applications (BCA)**(2019-2022)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ranjana-ranjan-a7713b2b3)  
